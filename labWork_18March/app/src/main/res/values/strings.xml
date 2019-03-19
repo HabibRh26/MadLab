@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">labWork_19March</string>
+    <array name="listitem">
+        <item>Default Item</item>
+        <item>Send Msg To This</item>
+        <item>Send Email</item>
+        <item>Call Now</item>
+        <item>item 5</item>
+    </array>
+</resources>
